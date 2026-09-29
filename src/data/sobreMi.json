@@ -1,0 +1,57 @@
+{
+    "nombre": "David Steven",
+    "foto": "/img/foto.jpg",
+    "titulo": "Estudiante de Programacion WEB",
+    "faccion": "Horda",
+    "clase": "Desarrollador web",
+    "edad": 23,
+    "ciudad": "Santiago de Cali",
+    "correo": "david.munoz05@usc.co",
+    "fraseFavorita": "La programación es el arte de crear un universo donde todo es posible y donde cada problema tiene una solucion elegante",
+    "presentacion": "Soy David Steven, soy estudiante de Ingenieria de Sistemas, actualmente me encuentro cursando el 8tavo semestre, los lenguajes de programacion que domino son python, C, y actualmente me encuentro aprendiendo JS, HTML y CSS. Por ultimo quiero especializarme en ciberseguridad",
+    "habilidades": [
+        {
+            "nombre": "HTML",
+            "nivel": 60
+        },
+        {
+            "nombre": "CSS",
+            "nivel": 20
+        },
+        {
+            "nombre": "JavaScript",
+            "nivel": 20
+        },
+        {
+            "nombre": "Python",
+            "nivel": 60
+        }
+    ],
+    "gustos": [
+        "Me gusta la programacion",
+        "Jugar futbol",
+        "Jugar Videojuegos",
+        "Musica (Tocar Guitarra)"
+    ],
+    "logros": [
+        {
+            "titulo": "Hilos & Nudos",
+            "descripcion": "Es una micro-empresa dediaca a la comercializacion de pulseras artesanales con la tecnica tipo macrame"
+        }
+    ],
+    "metaProfesional": "Me gustaria adquirir los conocimientos suficientes para lograr ser desarrollador Full Stack, sin embargo mi enfasis principal es lograr desempenarme en la profesion de ciberseguridad.",
+    "enlaces": [
+        {
+            "nombre": "GitHub",
+            "url": "https://github.com/Darksteven30"
+        },
+        {
+            "nombre": "LinkedIn",
+            "url": "https://www.linkedin.com/"
+        },
+        {
+            "nombre": "Instagram",
+            "url": "https://www.instagram.com/"
+        }
+    ]
+}

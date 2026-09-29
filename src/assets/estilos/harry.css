@@ -1,0 +1,18 @@
+/* ============================================================
+   Estilos de la vista HARRY POTTER
+   El header, footer y colores base ahora están en ../tema-wow.css
+   ============================================================ */
+
+#harry-container{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px;
+    text-align: center;
+    padding: 40px 0 20px 0;
+}
+
+@media (max-width: 800px) {
+    #harry-container{
+        grid-template-columns: repeat(2, 1fr);
+    }
+}

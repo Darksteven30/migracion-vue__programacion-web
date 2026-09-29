@@ -1,0 +1,85 @@
+{
+    "tema": "Personajes icónicos de World of Warcraft",
+    "personajes": [
+        {
+            "nombre": "Thrall",
+            "raza": "Orco",
+            "clase": "Chamán",
+            "faccion": "Horda",
+            "rol": "Ex Jefe de Guerra de la Horda",
+            "descripcion": "Fue esclavo de niño, luego se convirtió en el líder que reconstruyó la Horda y fundó Orgrimmar.",
+            "icono": "🪓",
+            "imagen": "https://upload.wikimedia.org/wikipedia/en/7/7e/ThrallWarcraft.jpg"
+        },
+        {
+            "nombre": "Jaina Proudmoore",
+            "raza": "Humana",
+            "clase": "Maga",
+            "faccion": "Alianza",
+            "rol": "Señora de Marea de Kul Tiras",
+            "descripcion": "Una de las magas más poderosas de Azeroth, fundadora de Theramore y aliada clave de la Alianza.",
+            "icono": "❄️",
+            "imagen": "https://upload.wikimedia.org/wikipedia/en/1/1f/Jaina_Proudmoore.png"
+        },
+        {
+            "nombre": "Sylvanas Windrunner",
+            "raza": "No-muerta (Olvidada)",
+            "clase": "Cazadora",
+            "faccion": "Horda",
+            "rol": "Ex Jefa de Guerra de la Horda",
+            "descripcion": "Antigua Guardabosques General de Sombraluna, resucitada como Banshee tras morir a manos de Arthas.",
+            "icono": "🏹",
+            "imagen": "https://upload.wikimedia.org/wikipedia/en/f/f8/SylvanasWindrunner.png"
+        },
+        {
+            "nombre": "Illidan Stormrage",
+            "raza": "Elfo de la Noche (Demonio Cazador)",
+            "clase": "Cazador de Demonios",
+            "faccion": "Neutral",
+            "rol": "El Señor de la Traición",
+            "descripcion": "Se transformó en semidemonio para combatir la Legión Ardiente, ganándose el título de traidor.",
+            "icono": "🔥",
+            "imagen": "https://upload.wikimedia.org/wikipedia/en/e/e7/Illidan_Stormrage.png"
+        },
+        {
+            "nombre": "Arthas Menethil",
+            "raza": "Humano (No-muerto)",
+            "clase": "Caballero de la Muerte",
+            "faccion": "Flagelo",
+            "rol": "El Rey Exánime",
+            "descripcion": "Príncipe de Lordaeron que cayó en la corrupción al empuñar la espada maldita Escarcha Letal.",
+            "icono": "💀",
+            "imagen": "https://upload.wikimedia.org/wikipedia/en/a/af/Arthas_Menethil.png"
+        },
+        {
+            "nombre": "Anduin Wrynn",
+            "raza": "Humano",
+            "clase": "Sacerdote",
+            "faccion": "Alianza",
+            "rol": "Rey de Stormwind",
+            "descripcion": "Joven rey pacifista que busca la unidad entre la Alianza y la Horda.",
+            "icono": "✨",
+            "imagen": "https://upload.wikimedia.org/wikipedia/en/a/a5/Anduin_Wrynn_by_Erik_Braddock.jpg"
+        },
+        {
+            "nombre": "Tyrande Whisperwind",
+            "raza": "Elfa de la Noche",
+            "clase": "Sacerdotisa/Cazadora",
+            "faccion": "Alianza",
+            "rol": "Alta Sacerdotisa de Elune",
+            "descripcion": "Líder espiritual de los elfos de la noche y comandante de las Guardianas de la Luna.",
+            "icono": "🌙",
+            "imagen": "https://warcraft.wiki.gg/images/thumb/Tyrande_Mercenaries_3.jpg/200px-Tyrande_Mercenaries_3.jpg"
+        },
+        {
+            "nombre": "Vol'jin",
+            "raza": "Trol",
+            "clase": "Pícaro",
+            "faccion": "Horda",
+            "rol": "Ex Jefe de Guerra de la Horda",
+            "descripcion": "Líder de la tribu Trueno Negro que unió a la Horda tras la caída de Garrosh Hellscream.",
+            "icono": "🗡️",
+            "imagen": "https://warcraft.wiki.gg/images/thumb/Vol%27jinHS.jpg/200px-Vol%27jinHS.jpg"
+        }
+    ]
+}

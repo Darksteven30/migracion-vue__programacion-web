@@ -1,0 +1,308 @@
+{
+    "tema": "Razas jugables de Azeroth",
+    "descripcion": "Cada raza pertenece a una facción y tiene su propia capital, su líder y un rasgo racial que la hace única.",
+    "razas": [
+        {
+            "nombre": "Humano",
+            "faccion": "Alianza",
+            "tipo": "Principal",
+            "capital": "Ventormenta",
+            "lider": "Rey Anduin Wrynn",
+            "rasgo": "Cada hombre por sí mismo",
+            "clases": [
+                "Guerrero",
+                "Paladín",
+                "Mago",
+                "Sacerdote",
+                "Pícaro"
+            ],
+            "descripcion": "El pueblo más numeroso de la Alianza. Reconstruyeron Ventormenta después de la Primera Guerra.",
+            "icono": "⚔️"
+        },
+        {
+            "nombre": "Enano",
+            "faccion": "Alianza",
+            "tipo": "Principal",
+            "capital": "Forjaz",
+            "lider": "Consejo de los Tres Martillos",
+            "rasgo": "Forma de piedra",
+            "clases": [
+                "Guerrero",
+                "Cazador",
+                "Paladín",
+                "Sacerdote"
+            ],
+            "descripcion": "Mineros y arqueólogos de Khaz Modan, descendientes de los antiguos titanes terrestres.",
+            "icono": "🔨"
+        },
+        {
+            "nombre": "Gnomo",
+            "faccion": "Alianza",
+            "tipo": "Principal",
+            "capital": "Gnomeregan",
+            "lider": "Gelbin Mekkatorque",
+            "rasgo": "Cerebro escurridizo",
+            "clases": [
+                "Mago",
+                "Brujo",
+                "Monje",
+                "Pícaro"
+            ],
+            "descripcion": "Inventores brillantes que perdieron su ciudad por una fuga radiactiva y buscan recuperarla.",
+            "icono": "⚙️"
+        },
+        {
+            "nombre": "Elfo de la noche",
+            "faccion": "Alianza",
+            "tipo": "Principal",
+            "capital": "Darnassus",
+            "lider": "Tyrande Susurravientos",
+            "rasgo": "Sombra fugaz",
+            "clases": [
+                "Druida",
+                "Cazador",
+                "Sacerdote",
+                "Cazador de demonios"
+            ],
+            "descripcion": "Guardianes milenarios de la naturaleza y devotos de la diosa Elune.",
+            "icono": "🌙"
+        },
+        {
+            "nombre": "Draenei",
+            "faccion": "Alianza",
+            "tipo": "Principal",
+            "capital": "El Exodar",
+            "lider": "Profeta Velen",
+            "rasgo": "Don de los Naaru",
+            "clases": [
+                "Paladín",
+                "Sacerdote",
+                "Chamán",
+                "Mago"
+            ],
+            "descripcion": "Exiliados de Argus que huyeron de la Legión Ardiente y llegaron a Azeroth en una nave naaru.",
+            "icono": "🔮"
+        },
+        {
+            "nombre": "Huargen",
+            "faccion": "Alianza",
+            "tipo": "Principal",
+            "capital": "Gilneas",
+            "lider": "Rey Genn Vellenegra",
+            "rasgo": "Carrera oscura",
+            "clases": [
+                "Guerrero",
+                "Druida",
+                "Pícaro",
+                "Brujo"
+            ],
+            "descripcion": "Humanos de Gilneas afectados por la maldición licántropa: viven entre dos formas.",
+            "icono": "🐺"
+        },
+        {
+            "nombre": "Kul Tirano",
+            "faccion": "Alianza",
+            "tipo": "Aliada",
+            "capital": "Puerto Boralus",
+            "lider": "Lady Jaina Valiente",
+            "rasgo": "Hijos del mar",
+            "clases": [
+                "Druida",
+                "Monje",
+                "Chamán",
+                "Guerrero"
+            ],
+            "descripcion": "La mayor potencia naval humana, con una fuerte tradición de brujas de mar.",
+            "icono": "⚓"
+        },
+        {
+            "nombre": "Elfo del Vacío",
+            "faccion": "Alianza",
+            "tipo": "Aliada",
+            "capital": "Telogrus",
+            "lider": "Alleria Brisaveloz",
+            "rasgo": "Salto etéreo",
+            "clases": [
+                "Mago",
+                "Sacerdote",
+                "Pícaro",
+                "Cazador"
+            ],
+            "descripcion": "Elfos de sangre exiliados que aprendieron a dominar la energía del Vacío sin perder la cordura.",
+            "icono": "🌀"
+        },
+        {
+            "nombre": "Orco",
+            "faccion": "Horda",
+            "tipo": "Principal",
+            "capital": "Orgrimmar",
+            "lider": "Thrall / Consejo de la Horda",
+            "rasgo": "Furia sanguinaria",
+            "clases": [
+                "Guerrero",
+                "Chamán",
+                "Cazador",
+                "Brujo"
+            ],
+            "descripcion": "Guerreros de Draenor que llegaron por el Portal Oscuro y hoy lideran la Horda desde Orgrimmar.",
+            "icono": "🪓"
+        },
+        {
+            "nombre": "Tauren",
+            "faccion": "Horda",
+            "tipo": "Principal",
+            "capital": "Cima del Trueno",
+            "lider": "Baine Pezuna de Sangre",
+            "rasgo": "Pisotón de guerra",
+            "clases": [
+                "Druida",
+                "Chamán",
+                "Guerrero",
+                "Paladín"
+            ],
+            "descripcion": "Pueblo nómada de las llanuras de Mulgore que honra a la Madre Tierra.",
+            "icono": "🐂"
+        },
+        {
+            "nombre": "Trol",
+            "faccion": "Horda",
+            "tipo": "Principal",
+            "capital": "Villa Sen'jin",
+            "lider": "Talanji / tribu Trueno Negro",
+            "rasgo": "Berserker",
+            "clases": [
+                "Pícaro",
+                "Cazador",
+                "Chamán",
+                "Sacerdote"
+            ],
+            "descripcion": "Una de las civilizaciones más antiguas del mundo, con una fuerte tradición vudú.",
+            "icono": "🗿"
+        },
+        {
+            "nombre": "Renegado",
+            "faccion": "Horda",
+            "tipo": "Principal",
+            "capital": "Entrañas",
+            "lider": "Calia Menethil / Lilian Voss",
+            "rasgo": "Voluntad de los Renegados",
+            "clases": [
+                "Pícaro",
+                "Brujo",
+                "Sacerdote",
+                "Mago"
+            ],
+            "descripcion": "No-muertos que rompieron el control del Rey Exánime y recuperaron su libre albedrío.",
+            "icono": "💀"
+        },
+        {
+            "nombre": "Elfo de sangre",
+            "faccion": "Horda",
+            "tipo": "Principal",
+            "capital": "Lunargenta",
+            "lider": "Lor'themar Theron",
+            "rasgo": "Antorcha arcana",
+            "clases": [
+                "Mago",
+                "Paladín",
+                "Pícaro",
+                "Cazador de demonios"
+            ],
+            "descripcion": "Herederos de Quel'Thalas, marcados por la caída de su Sunwell y por su sed de magia.",
+            "icono": "✨"
+        },
+        {
+            "nombre": "Goblin",
+            "faccion": "Horda",
+            "tipo": "Principal",
+            "capital": "Ciudad Bilgewater",
+            "lider": "Comerciante Príncipe Gallywix",
+            "rasgo": "Cohetes desechables",
+            "clases": [
+                "Brujo",
+                "Pícaro",
+                "Chamán",
+                "Cazador"
+            ],
+            "descripcion": "Comerciantes e ingenieros obsesionados con el oro y con los explosivos.",
+            "icono": "💣"
+        },
+        {
+            "nombre": "Nocheterna",
+            "faccion": "Horda",
+            "tipo": "Aliada",
+            "capital": "Suramar",
+            "lider": "Primera Arcanista Thalyssra",
+            "rasgo": "Mente arcana",
+            "clases": [
+                "Mago",
+                "Brujo",
+                "Pícaro",
+                "Sacerdote"
+            ],
+            "descripcion": "Elfos de Suramar que vivieron diez mil años aislados bajo un escudo mágico.",
+            "icono": "🔯"
+        },
+        {
+            "nombre": "Zandalari",
+            "faccion": "Horda",
+            "tipo": "Aliada",
+            "capital": "Dazar'alor",
+            "lider": "Reina Talanji",
+            "rasgo": "Bendición de los dioses",
+            "clases": [
+                "Sacerdote",
+                "Druida",
+                "Paladín",
+                "Chamán"
+            ],
+            "descripcion": "El imperio trol más antiguo, servidores de los Loa y jinetes de raptores.",
+            "icono": "🦖"
+        },
+        {
+            "nombre": "Pandaren",
+            "faccion": "Neutral",
+            "tipo": "Principal",
+            "capital": "La Tortuga Errante",
+            "lider": "Taran Zhu",
+            "rasgo": "Epicúreo",
+            "clases": [
+                "Monje",
+                "Guerrero",
+                "Chamán",
+                "Pícaro"
+            ],
+            "descripcion": "Única raza que elige su facción al terminar su historia inicial en Pandaria.",
+            "icono": "🎋"
+        },
+        {
+            "nombre": "Dracthyr",
+            "faccion": "Neutral",
+            "tipo": "Principal",
+            "capital": "Refugio de la Aurora",
+            "lider": "Aspectos dracónicos",
+            "rasgo": "Alas visionarias",
+            "clases": [
+                "Evocador"
+            ],
+            "descripcion": "Soldados creados por Neltharion que despertaron tras siglos de sueño; cambian entre forma humanoide y dracónica.",
+            "icono": "🐉"
+        },
+        {
+            "nombre": "Terrestre",
+            "faccion": "Neutral",
+            "tipo": "Aliada",
+            "capital": "Dornogal",
+            "lider": "Consejo terrestre",
+            "rasgo": "Piedra titánica",
+            "clases": [
+                "Guerrero",
+                "Sacerdote",
+                "Chamán",
+                "Mago"
+            ],
+            "descripcion": "Seres de piedra creados por los titanes, redescubiertos en las profundidades de Khaz Algar.",
+            "icono": "🪨"
+        }
+    ]
+}

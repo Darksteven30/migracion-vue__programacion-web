@@ -1,0 +1,19 @@
+/* ============================================================
+   Estilos de MI PERFIL (ficha de personaje)
+   Los colores base y el menú están en ../tema-wow.css
+   ============================================================ */
+
+#profile-view{
+    padding: 40px 0 20px 0;
+}
+
+.aviso{
+    background-color: rgba(163,43,43,0.15);
+    border: 1px solid var(--horda);
+    color: var(--pergamino);
+    padding: 16px;
+    border-radius: 4px;
+}
+
+/* --- Tarjeta principal --- */
+
